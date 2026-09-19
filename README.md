@@ -13,6 +13,12 @@ I enjoy building web applications, working with Python, and continuously learnin
 
 Currently, I'm focusing on expanding my knowledge in Artificial Intelligence and improving my software development skills.
 
+🎓 Education
+
+B.Sc. in Computer Engineering
+Islamic Azad University, Najafabad
+📍 Najafabad, Iran
+
 🛠️ Skills
 
 🌐 Front-End Development
